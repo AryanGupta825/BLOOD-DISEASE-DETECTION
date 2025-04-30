@@ -11,7 +11,7 @@ This project is a Flask web application that uses a machine learning model to pr
 - Provides reasons or potential causes for each prediction.
 - Allows users to register, log in, and save prediction history.
 - Displays a history of past predictions for logged-in users.
-- 
+  
 ### Example Input:
 - WBC: 5.0
 - RBC: 4.7
