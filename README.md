@@ -8,8 +8,7 @@ This project is a Flask web application that uses a machine learning model to pr
 
 ## 🔗 Live Demo
 
-👉 [Try the App Here](https://blood-disease-detection.onrender.com/)
-
+👉 [Try the App Here](https://blood-disease-detection.onrender.com)
 ## Features
 - Predicts blood disorders based on user inputs of blood parameters.
 - Provides reasons or potential causes for each prediction.
